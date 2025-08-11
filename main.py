@@ -20,7 +20,7 @@ class CurrencyConverterApp:
         self.root.resizable(True, True)
         
         # API ключи
-        self.API_KEY = "API ключ"#Ваш API ключ
+        self.API_KEY = "Ваш API ключ"#Ваш API ключ
         self.COINGECKO_URL = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,tether,solana,dogecoin&vs_currencies=usd"
         
         # Файлы для хранения данных
