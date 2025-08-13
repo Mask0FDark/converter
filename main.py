@@ -65,11 +65,11 @@ REFRESH_INTERVAL_MS = 10 * 60 * 1000  # 10 минут
 NOTIFY_THRESHOLD_PCT = 2.0  # уведомления по изменению фиат-курсов к USD
 
 # --- История (JSON) ---
-HISTORY_JSON_PATH = "history.json"
+HISTORY_JSON_PATH = "exchange_history.json"
 HISTORY_EXPORT_CSV_PATH = "history_export.csv"
 
 # --- Кэш курсов ---
-CACHE_RATES_FILE = "rates_cache.json"
+CACHE_RATES_FILE = "exchange_rates.json"
 
 # --- SMTP email (реальная отправка) ---
 SMTP_SERVER = "smtp.mail.ru"
