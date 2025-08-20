@@ -36,11 +36,11 @@ self.API_KEY = "ваш_api_ключ"
 ### 2. Настройка почты
 Для работы функции отправки email необходимо настроить SMTP:
 
--smtp_server = "smtp.yandex.ru"
+-smtp_server = "smtp.mail.ru"
 
 -smtp_port = 465
 
--sender_email = "ваш_email@yandex.ru"
+-sender_email = "ваш_email@mail.ru"
 
 -sender_password = "ваш_пароль"
 
