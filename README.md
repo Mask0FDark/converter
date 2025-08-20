@@ -38,7 +38,7 @@ self.API_KEY = "ваш_api_ключ"
 
 -smtp_server = "smtp.yandex.ru"
 
--smtp_port = 587
+-smtp_port = 465
 
 -sender_email = "ваш_email@yandex.ru"
 
